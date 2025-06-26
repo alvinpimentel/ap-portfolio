@@ -1,6 +1,6 @@
-# Lord Gallego's Responsive Portfolio Website
+# Alvin Pimentel's Responsive Portfolio Website
 
-## Website URL: https://lordgallego.vercel.app
+## Website URL: https://alvinpimentel.vercel.app
 
 <!-- - The design is based on [Bedimcode](https://github.com/bedimcode) -->
 
