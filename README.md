@@ -15,11 +15,3 @@
 - Added Google Tag script for [Google Analytics](https://analytics.google.com)
 - Online meeting integration is from [Calendly](https://calendly.com/)
 <!-- - Chatbot integration is from [Crisp](https://crisp.chat/en/) -->
-
-### Landing Page Light
-
-![preview img](./assets/snaps/light.png)
-
-### Landing Page Dark
-
-![preview img](./assets/snaps/dark.png)
