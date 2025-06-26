@@ -2,11 +2,11 @@
 /* Minimalist Logo Carousel Section */
 .logo-carousel-section {
   width: 100%;
-  background: #fafbfc;
+/*   background: #fafbfc; */
   padding: 1.2rem 0 1.2rem 0;
   margin-bottom: 1.5rem;
-  border-top: 1px solid #f0f1f3;
-  border-bottom: 1px solid #f0f1f3;
+/*   border-top: 1px solid #f0f1f3; */
+/*   border-bottom: 1px solid #f0f1f3; */
   overflow: hidden;
 }
 .logo-carousel__subtitle-minimal {
